@@ -1,0 +1,21 @@
+body{
+    background-color: bisque;
+}
+
+h2{
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    margin: 15px;
+}
+
+div{
+    border: 1px solid;
+    height: 170px;
+}
+
+button{
+    background-color: darksalmon;
+    border-radius: 5px;
+    row-gap: 5px;
+}
